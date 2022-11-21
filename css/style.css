@@ -327,7 +327,7 @@ section {
   text-align: center;
 }
 .pf h3 {
-  color: var(--main-color);
+  color: var(--text-colorr);
   font-size: 25px;
 }
 .portfolio {
